@@ -1,0 +1,4 @@
+{
+  "message.heavychop.stuck": "The axe is stuck! Click to pull it out.",
+  "message.heavychop.loaded": "[HeavyChop %s] active. Hits factor: %s, swing: %s ticks."
+}
