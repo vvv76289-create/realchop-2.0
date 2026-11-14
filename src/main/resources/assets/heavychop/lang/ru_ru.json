@@ -1,0 +1,4 @@
+{
+  "message.heavychop.stuck": "Топор застрял! Кликни, чтобы вытащить.",
+  "message.heavychop.loaded": "[HeavyChop %s] активен. Коэффициент ударов: %s, замах: %s тиков."
+}
